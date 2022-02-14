@@ -22,3 +22,5 @@ describe("Calculator tests", () => {
         expect(result).toBe(6);
     });
 })
+
+
